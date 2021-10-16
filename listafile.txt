@@ -1,0 +1,25 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 0669-4CFD
+
+ Directory di C:\Users\4B11
+
+07/10/2021  09:19    <DIR>          .
+07/10/2021  09:19    <DIR>          ..
+09/10/2021  09:33    <DIR>          .eclipse
+11/10/2021  12:58    <DIR>          .VirtualBox
+30/09/2021  09:18    <DIR>          3D Objects
+30/09/2021  09:18    <DIR>          Contacts
+16/10/2021  12:22    <DIR>          Desktop
+30/09/2021  09:18    <DIR>          Documents
+16/10/2021  11:49    <DIR>          Downloads
+30/09/2021  09:18    <DIR>          Favorites
+30/09/2021  09:18    <DIR>          Links
+30/09/2021  09:18    <DIR>          Music
+23/09/2021  09:34    <DIR>          OneDrive
+30/09/2021  09:18    <DIR>          Pictures
+30/09/2021  09:18    <DIR>          Saved Games
+30/09/2021  09:18    <DIR>          Searches
+30/09/2021  09:18    <DIR>          Videos
+09/10/2021  09:33    <DIR>          workspace
+               0 File              0 byte
+              18 Directory  70.313.435.136 byte disponibili
